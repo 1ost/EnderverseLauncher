@@ -1,21 +1,21 @@
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.0
+fov:0.5
 gamma:10000.0
 saturation:0.0
-renderDistance:6
+renderDistance:8
 guiScale:3
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-maxFps:260
+maxFps:240
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:0
+ao:1
 clouds:false
-resourcePacks:["Dbc.zip","Vanilla.zip"]
+resourcePacks:["Vanilla.zip","Dbc-2.0.zip"]
 lastServer:localhost
 lang:en_US
 chatVisibility:0
@@ -27,7 +27,7 @@ snooperEnabled:true
 fullscreen:false
 enableVsync:false
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false
@@ -71,8 +71,8 @@ key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:0
 key_key.sprint:29
-key_key.streamStartStop:64
-key_key.streamPauseUnpause:65
+key_key.streamStartStop:0
+key_key.streamPauseUnpause:0
 key_key.streamCommercial:0
 key_key.streamToggleMic:0
 key_key.fullscreen:87
@@ -85,13 +85,14 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Quest Log:38
+key_Quest Log:0
 key_Action menu:45
 key_Turbo Mode:19
 key_Energy Control/Flight:33
 key_Scouter Functions:62
-key_Interact:48
-key_Calendar:22
+key_Interact:0
+key_Calendar:0
+key_smoothfont.key.guiOpen:0
 key_key.quickmenu.desc:21
 key_key.charge.desc:46
 key_key.ascend2.desc:34
@@ -100,18 +101,18 @@ key_key.dfsettings.desc:47
 key_key.saga.desc:38
 key_key.tutorial.desc:37
 key_key.skill.lockon:44
-key_keys.armourersworkshop.equipmentWardrobe:25
-key_keys.armourersworkshop.undo:44
-key_Speak:44
-key_Voice-Chat Options:52
+key_keys.armourersworkshop.equipmentWardrobe:0
+key_keys.armourersworkshop.undo:0
+key_Speak:49
+key_Voice-Chat Options:0
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
-soundCategory_master:1.0
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_preset:0
+key_key.journeymap.create_waypoint:0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
