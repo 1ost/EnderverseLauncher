@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 clouds:false
-resourcePacks:["Vanilla.zip","Dbc-2.0.zip"]
+resourcePacks:["Dbc-2.0.zip","Vanilla.zip"]
 lastServer:localhost
 lang:en_US
 chatVisibility:0
