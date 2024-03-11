@@ -103,7 +103,7 @@ key_key.tutorial.desc:37
 key_key.skill.lockon:44
 key_keys.armourersworkshop.equipmentWardrobe:0
 key_keys.armourersworkshop.undo:0
-key_Speak:49
+key_Speak:18
 key_Voice-Chat Options:0
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
